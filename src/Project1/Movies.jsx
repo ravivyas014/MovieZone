@@ -13,7 +13,7 @@ export const Movies = () => {
     <>
     <div className='my-3' style={{width:'1000px', margin:'auto'}}>
       <div className='mx-auto text-center'>
-    <button onclick={()=> setMovieList(movies)} type="button" className="btn btn-outline-primary mx-3">All</button>
+    <button onClick={()=> setMovieList(movies)} type="button" className="btn btn-outline-primary mx-3">All</button>
 <button onClick={()=> filterByCatogory("Action")} type="button" className="btn btn-outline-primary mx-3">Action</button>
 <button onClick={()=> filterByCatogory("Thriller")} type="button" className="btn btn-outline-light mx-3">Thriller</button>
 <button onClick={()=> filterByCatogory("Animation")} type="button" className="btn btn-outline-info mx-3">Animation</button>
