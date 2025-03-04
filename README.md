@@ -7,4 +7,4 @@ A movie's app is made using  react + vite .
 **Built with React, Bootstrap and Vite**
 
 Screenshot
-![MovieZone Preview]()
+![MovieZone Preview](https://github.com/ravivyas014/MovieZone/blob/main/Screenshot%20(57).png?raw=true)
